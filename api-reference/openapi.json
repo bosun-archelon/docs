@@ -21,7 +21,7 @@
   "paths": {
     "/plants": {
       "get": {
-        "description": "Returns all plants from the system that the user has access to Sea levels included in the data returned by the Storm Glass tide API will always be relative one of a predefined set of reference levels, or datums. The difference between two sea levels at two different points in time will correspond to the relative displacement of water as caused by the astronomical tide. The sea levels should never be incorrectly interpreted as representing actual water depth!",
+        "description": "Returns all plants from the system that the user has access to",
         "parameters": [
           {
             "name": "limit",
